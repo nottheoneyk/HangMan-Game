@@ -20,6 +20,3 @@ This project demonstrates basic programming concepts like loops, conditionals, a
 - Add GUI using Tkinter
 - Add difficulty levels
 - Add word categories
-
-### Acknowledgement
-This project was inspired by tutorials from GeeksforGeeks.
